@@ -1,0 +1,70 @@
+html{
+  background: lightgrey; 
+}
+
+body{
+   width: 350px;
+   height:0px;
+  border: 2px solid darkgrey;
+  text-align: center;
+  font-size: 10px;
+  margin-left: 60%;  
+}
+.container{
+  height: 450px;
+  background-color: white;
+  }
+.uname, .pass{
+  width: 290px;
+  height: 38px;
+  font-size: 12px;
+  background-color: rgb(240, 239, 239);
+  border: 1px solid lightgrey;
+  padding: 10px;
+}
+
+img{
+  margin-left: 40px;
+}
+
+hr{
+  width: 110px;
+  margin: 5px;
+  color: darkgrey;
+  background-color: black;
+
+}
+.or{
+  margin-left: 135px;
+  margin-top: -28px;
+}
+.hr2{
+   width: 110px;
+  margin: 170px;
+  margin-top: -28px;
+  color: darkgrey;
+}
+.opt{
+ margin-top: -130px;
+ text-align: center;
+ color: grey;
+}
+.forgot{
+  text-align: center;
+  font-size: 13px;
+}
+.sub-menu{
+  width: 350px;
+  height: 70px;
+  margin-left: -15px;
+  margin-top: 80px;
+  border: 2px solid darkgrey;
+  background-color: white;
+  text-align: left;
+  font-size: 18px;
+  padding: 14px;
+}
+.end{
+  text-align: center;
+  font-size: 15px; 
+}
